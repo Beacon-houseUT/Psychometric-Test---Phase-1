@@ -1,6 +1,6 @@
 import requests
 
-N8N_WEBHOOK_URL = "https://uttarika.app.n8n.cloud/webhook/google-export"  # Replace with your actual webhook if different
+N8N_WEBHOOK_URL = "https://techbh.app.n8n.cloud/webhook/google-export"  # Replace with your actual webhook if different
 
 def request_google_export(payload: dict) -> dict:
     """
