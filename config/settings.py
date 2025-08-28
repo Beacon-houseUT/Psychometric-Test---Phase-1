@@ -2,8 +2,8 @@
 # Configuration settings for the psychometric app
 
 # N8N Webhook URLs
-N8N_BASE_URL = "https://uttarika.app.n8n.cloud/webhook"
-PSYCHOMETRIC_UPLOAD_ENDPOINT = "/google-upload-report"
+N8N_BASE_URL = "https://techbh.app.n8n.cloud/webhook"
+PSYCHOMETRIC_UPLOAD_ENDPOINT = "/google-report-upload"
 CAREER_ANALYSIS_ENDPOINT = "/google-career-analysis"
 GOOGLE_EXPORT_ENDPOINT = "/google-export"
 
