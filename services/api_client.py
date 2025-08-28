@@ -6,7 +6,7 @@ class N8NClient:
     """Client for communicating with N8N webhooks"""
     
     def __init__(self):
-        self.base_url = "https://uttarika.app.n8n.cloud/webhook"
+        self.base_url = "https://techbh.app.n8n.cloud/webhook"
         self.session = requests.Session()
         self.session.trust_env = False
         self.session.headers.update({
